@@ -184,9 +184,9 @@ class Client(Methods):
             Defaults to 1.
     """
 
-    APP_VERSION = f"TelegramUB {__version__}"
-    DEVICE_MODEL = f"Linux"
-    SYSTEM_VERSION = f"Ubuntu 22.0.4"
+    APP_VERSION = f"ArabUbot {__version__}"
+    DEVICE_MODEL = f"ArabUbot"
+    SYSTEM_VERSION = f"Anu 22.0.4"
 
     LANG_CODE = "en"
 
